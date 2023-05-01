@@ -1,9 +1,5 @@
 # ToDo
 - [ ] Theorie Aneignen
-    - [ ] 
-    - [ ] 
-    - [ ] 
-    - [ ] 
 - [ ] Solidworks
     - [ ] Von Schule USB Stick einrichten
     - [ ] Gewinde Tutorials anschauen
