@@ -162,29 +162,23 @@ Dateien (ordentlich benannt und sortiert)
     PDF;
 
 -   Renderings aller Teile und Baugruppen als PNG, JPG, oder PDF (min.
-    1200$\cdot$`<!-- -->`{=html}1200px);
+    1200 x 1200px);
 
 -   Digitalisierungen der Scribbles als PNG, JPG oder PDF (min.
-    1200$\cdot$`<!-- -->`{=html}1200px);
+    1200 x 1200px);
 
 -   Fotos vom Modellbauprozess und der Modellanalyse als JPG (min.
-    1200$\cdot$`<!-- -->`{=html}1200px);
+    1200 1200px);
 
 # Bewertung
 
-  **Kriterium**                                                                                                                    **Punkte**
-  ------------------------------------------------------------------------------------------------------------------------------ ------------
-  Projektdefinition, Projektplanung und Reflexion                                                                                          10
-                                                                                                                                 
-  Optimierung und Dokumentation: *Detaillierung, Aussagekraft, Eignung, Vollständigkeit, Vorgabeneinhaltung*                               10
-                                                                                                                                 
-  Werkstoffwahl und Fertigungsplanung: *Detaillierung und Vollstaendigkeit bzw. Kriterien, Nachvollziehbarkeit, Eignung*                    8
-                                                                                                                                 
-  CAD-Umsetzung und Dokumentation: *Vollstaendigkeit, Detaillierung, Eignung/technische Sauberkeit, Aussagekraft (Renderings)*             18
-                                                                                                                                 
-  Modellbau und Dokumentation                                                                                                              12
-                                                                                                                                 
-  Modellanalzse und Dokumentation                                                                                                          12
-                                                                                                                                 
-  Dokumentation: *Aufbau, Gestaltung, Sprache, Eignung, Vorgabeneinhaltung*                                                                10
-  Summe                                                                                                                                    80
+  |**Kriterium**                                                                                                                 |  **Punkte**
+  |------------------------------------------------------------------------------------------------------------------------------|------------|
+  |Projektdefinition, Projektplanung und Reflexion                                                                                        | 10|
+  |Optimierung und Dokumentation: *Detaillierung, Aussagekraft, Eignung, Vollständigkeit, Vorgabeneinhaltung*                             | 10|
+  |Werkstoffwahl und Fertigungsplanung: *Detaillierung und Vollstaendigkeit bzw. Kriterien, Nachvollziehbarkeit, Eignung*                 |  8|
+  |CAD-Umsetzung und Dokumentation: *Vollstaendigkeit, Detaillierung, Eignung/technische Sauberkeit, Aussagekraft (Renderings)*           | 18|
+  |Modellbau und Dokumentation                                                                                                            | 12|
+  |Modellanalzse und Dokumentation                                                                                                        | 12|
+  |Dokumentation: *Aufbau, Gestaltung, Sprache, Eignung, Vorgabeneinhaltung*                                                              | 10|
+  |Summe                                                                                                                                  | 80|
