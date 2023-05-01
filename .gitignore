@@ -1,13 +1,13 @@
 # TeX:
-.aux
-.fdb
-.fdb_latexmk
-.fls
-.log
-.synctex
-.gz
-.synctex.gz
-.toc
-.xdv
+*.aux
+*.fdb
+*.fdb_latexmk
+*.fls
+*.log
+*.synctex
+*.gz
+*.synctex.gz
+*.toc
+*.xdv
 
 # rest
