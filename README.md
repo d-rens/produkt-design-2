@@ -1,20 +1,39 @@
 # ToDo
 - [ ] Theorie Aneignen
-- [ ] Solidworks
-    - [ ] Von Schule USB Stick einrichten
-    - [ ] Gewinde Tutorials anschauen
-    - [ ] Solidworks Konfigurieren
+- [x] Solidworks
+    - [x] Von Schule USB Stick einrichten
+    - [x] Gewinde Tutorials anschauen
+    - [x] Solidworks Konfigurieren
 - [ ] Affinity
-    - [ ] Publisher Konfigurieren
-    - [ ] Schauen wie man Schrift gruppen macht
+    - [x] Publisher Konfigurieren
+    - [x] Schauen wie man Schrift gruppen macht
     - [ ] Farbgruppen
-    - [ ] automatisches ToC
+    - [x] automatisches ToC
 - [ ] Modellieren (Ton 😐)
-    - [ ] Spiralformen in CAD
-    - [ ] Modell 1
+    - [x] Modell 1
     - [ ] Modell 2
 - [ ] Zeitplan
     - [ ] erstmal schauen wie ueberhaupt
+
+- [ ] Dokumentation
+    - [ ] Projektdefinition
+    - [ ] Projektplanung
+    - [ ] Treffen mit Klient
+    - [ ] Modellbau
+	- [ ] Illustrierte Beschreibung
+	- [ ] Werkstoffe & Werkzeuge
+    - [ ] Modellbauprozess
+    - [ ] Analyse Modell Teil 1
+    - [ ] Begruendung und Optimierung
+    - [ ] Uebersicht ueber CAD-Umsetzung
+    - [ ] Reflexion
+	    - [ ] Bezug auf Definition
+	    - [ ] Bezug auf Planung
+    - [ ] Anhang
+	- [ ] Zeichnungen
+	    - [ ] Physisch
+	    - [ ] aus SolidWorks
+	- [ ] Render
 
 
 
