@@ -32,6 +32,14 @@
 	- [ ] Zeichnungen
 	    - [ ] Physisch
 	    - [ ] aus SolidWorks
+		- [x] Boden
+		- [ ] Decke
+		- [ ] Glas
+		- [ ] Saeule
+		- [x] Kopf-Unten
+		- [ ] Kopf-Oben
+		- [ ] Kopf-Ding
+		- [ ] Halm
 	- [ ] Render
 
 
