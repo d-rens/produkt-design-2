@@ -12,12 +12,11 @@
 - [ ] Modellieren (Ton 😐)
     - [x] Modell 1
     - [ ] Modell 2
-- [ ] Zeitplan
-    - [ ] erstmal schauen wie ueberhaupt
-
 - [ ] Dokumentation
     - [ ] Projektdefinition
     - [ ] Projektplanung
+	- [ ] Zeitplan
+	    - [ ] erstmal schauen wie ueberhaupt
     - [ ] Treffen mit Klient
     - [ ] Modellbau
 	- [ ] Illustrierte Beschreibung
