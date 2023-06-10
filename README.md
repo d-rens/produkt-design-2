@@ -1,5 +1,7 @@
-# ToDo
-- [ ] Theorie Aneignen
+## ToDo
+- [ ] Rausfinden wie man Color-Profiles matched 
+- [x] Theorie Aneignen
+- [ ] Schrift fuer captions
 - [x] Solidworks
     - [x] Von Schule USB Stick einrichten
     - [x] Gewinde Tutorials anschauen
@@ -32,22 +34,54 @@
 	- [ ] Zeichnungen
 	    - [ ] Physisch
 	    - [x] aus SolidWorks
-		- [x] Boden
-		- [x] Decke
-		- [x] Glas
-		- [x] Saeule
-		- [x] Kopf-Unten
-		- [x] Kopf-Oben
-		- [x] Kopf-Ding
-		- [x] Halm
 	- [ ] Render
 
 
+## Sachen zum erwaehnen
+
+### Was ich gelernt habe
+
+- Affinity
+	- Automatisches ToC
+	- Schriftgruppen ordentlich machen
+
+- Solidworks
+	- Helix/Spiralentool
+	- Hole-wizard fuer Gewinde
+	- Zeichnungen
+	- Uniform rendern
+
+
+## Hier bisschen was ich aufschreiben muss
+
+1. Projektdefinition
+- einfuerung wie es aus dem alten kommt
+	- bestimmte sachen blieben unberuecksichtigt, die nun beruecksichtigt werden.
+	- nun auch CAD
+
+2. Auftragnahme
+- projekt definierten 
+- Ziel definieren 
+	- in arbeitspakete machen (Theorie einbringen z.b. Affinity und Solidworks)
+		- Review
+		- CAD
+		- Rapid prototyping/modell
+		- Review
+		- CAD
+		- Rapid prototyping/modell
+		- Dokumentieren
+- was aufgefallen ist am design
+	- spiralen gehen nicht
+	- idee an sich gut
+	
 
 
 
 
-# Gebrauchte Abgabe Dateien:
+
+
+
+## Gebrauchte Abgabe Dateien:
 ```
 - Dokumentation 
   \-.PDF
@@ -73,9 +107,9 @@
 ```
 
 
-# Aufgabe
+## Aufgabe
 
-# Beschreibung
+## Beschreibung
 
 Sie hatten in Teil 1 des Projektes den Auftrag, einen Parfümflacon zu
 entwerfen. Die technische Darstellung, Fertigung und entsprechende
@@ -85,7 +119,7 @@ Im zweiten Teil werden diese Aspekte nun genauer betrachtet und
 entsprechende Entscheidungen getroffen vom Modellbau bis hin zur
 Umsetzung in CAD.
 
-## Auftragsannahme
+### Auftragsannahme
 
 Definieren Sie das Projekt, formulieren Sie ein Ziel und erstellen Sie
 eine Planung. Diese beinhaltet eine Einleitung des Projekts in
@@ -96,7 +130,7 @@ ausserdem auch die Dokumentation.
 *Ggf. muss das Ergebnis aus Teil 1 stark geaendert oder gar verworfen
 werden.*
 
-## Dokumentation
+### Dokumentation
 
 Die Dokumentation wird in Affinity Publisher erstellt, sier enthaelt ein
 Deckblatt, ein Inhaltsverzeichnis, Seitennummerierung und einen Anhang.
@@ -126,7 +160,7 @@ Zur technischen Umsetzung der Dokumentation bestehen folgende Vorgaben:
 
 -   Fotos dürfen nicht (unabsichtlich) gestaucht und gestreckt werden.
 
-## Fertigung und Modellbau
+### Fertigung und Modellbau
 
 Modellieren Sie zunaechst Ihr Ergebnis aus Teil 1.
 
@@ -142,7 +176,7 @@ Modellieren Sie zunaechst Ihr Ergebnis aus Teil 1.
 
 5.  Fotografieren Sie den Prozess regelmaessig.
 
-## Optimierung und technische Darstellung
+### Optimierung und technische Darstellung
 
 1.  Setzen Sie das \"Modell\" Teil 2 in CAD um.
 
@@ -164,9 +198,9 @@ Modellieren Sie zunaechst Ihr Ergebnis aus Teil 1.
 *Nur wer gewissenhaft und sauber arbeitet, kann sein Ergebnis am Ende
 als Prototyp im 3D-Drucker ausdrucken.*
 
-# Abgabe
+## Abgabe
 
-## Dokumentation:
+### Dokumentation:
 
 -   Projektdefinition, Projektplanung, min. ein dokumentiertes Vriefind
     mit Frau Hildebrand.
@@ -193,13 +227,13 @@ als Prototyp im 3D-Drucker ausdrucken.*
 -   Reflexion des Projekts mit Bezug auf Projektdefinition und
     Projektplanung.
 
-## Modell
+### Modell
 
 -   Modell Teil 1
 
 -   Modell Teil 2
 
-## Computer
+### Computer
 
 Dateien (ordentlich benannt und sortiert)
 
@@ -219,7 +253,7 @@ Dateien (ordentlich benannt und sortiert)
 -   Fotos vom Modellbauprozess und der Modellanalyse als JPG (min.
     1200 1200px);
 
-# Bewertung
+## Bewertung
 
   |**Kriterium**                                                                                                                 |  **Punkte**
   |------------------------------------------------------------------------------------------------------------------------------|------------|
