@@ -31,15 +31,15 @@
     - [ ] Anhang
 	- [ ] Zeichnungen
 	    - [ ] Physisch
-	    - [ ] aus SolidWorks
+	    - [x] aus SolidWorks
 		- [x] Boden
-		- [ ] Decke
-		- [ ] Glas
-		- [ ] Saeule
+		- [x] Decke
+		- [x] Glas
+		- [x] Saeule
 		- [x] Kopf-Unten
-		- [ ] Kopf-Oben
-		- [ ] Kopf-Ding
-		- [ ] Halm
+		- [x] Kopf-Oben
+		- [x] Kopf-Ding
+		- [x] Halm
 	- [ ] Render
 
 
